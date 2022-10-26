@@ -21,7 +21,7 @@ public class Main {
     	long[] temposCenario3MergeSort = new long[5];
     	long[] temposCenario3BubbleSort = new long[5];
     	
-    	System.out.println("######### CENÁRIO 2: Dados de entrada aleatorizados     #########");
+    	System.out.println("######### CENÁRIO 1: Dados de entrada aleatorizados     #########");
     	System.out.println(" ");
     	for(int i = 0; i < 5; i++) {
     		System.out.println("######### EXECUÇÃO " + (i+1) + "     #########");
